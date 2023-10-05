@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T04:20:16.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="22.0.2" etag="YsY2HEDuek4DXS5BQ8rq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T06:56:21.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZXo_t5u5PMQOMbTiPH8K" version="22.0.2" type="github">
   <diagram name="페이지-1" id="bvmQZ6XR5QvL3yoACLCf">
-    <mxGraphModel>
+    <mxGraphModel dx="1656" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jhw51zaWMBWXEtMtDxfH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jhw51zaWMBWXEtMtDxfH-1" target="Jhw51zaWMBWXEtMtDxfH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jhw51zaWMBWXEtMtDxfH-1" value="모증권 가입설계" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jhw51zaWMBWXEtMtDxfH-2" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jhw51zaWMBWXEtMtDxfH-3" value="모증권 계약체결" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jhw51zaWMBWXEtMtDxfH-5" value="NCRM" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
